@@ -555,6 +555,17 @@ footer p {
 	padding-left: 1rem;
 }
 
+.privacy {
+	font-family: 'Halant', serif, Arial;
+	font-size: 1.5rem;
+	padding-top: 1rem;
+	padding-left: 1rem;
+}
+
+.privacypolicy {
+	background-color: darkslategray;
+}
+
 footer a {
 	font-family: 'Halant', serif, Arial;
 	color: darkgray;
